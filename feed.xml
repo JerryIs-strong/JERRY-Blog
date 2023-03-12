@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>JERRY Blog</title>
+    <description>海內存知己，天涯若比鄰</description>
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
+    <pubDate>Sun, 12 Mar 2023 16:16:24 +0800</pubDate>
+    <lastBuildDate>Sun, 12 Mar 2023 16:16:24 +0800</lastBuildDate>
+    <generator>Jekyll v4.3.2</generator>
+    
+      <item>
+        <title>Welcome to JERRY Blog</title>
+        <description>&lt;p&gt;歡迎來到由JERRY使用Jekyll構建的&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;JERRY BLog&lt;/code&gt;這是&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;JERRY BLog&lt;/code&gt;的第一張Post，接下來讓我來講講&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;JERRY BLog&lt;/code&gt;與&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;JERRY PRO&lt;/code&gt;誕生的意義。&lt;/p&gt;
+
+&lt;h4 id=&quot;jerry-blog&quot;&gt;JERRY BLog&lt;/h4&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;rake&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;post&lt;/span&gt; &lt;span class=&quot;n&quot;&gt;title&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&quot;Welcome to JERRY Blog&quot;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;一句命令，伴隨著&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;JERRY BLog&lt;/code&gt;的誕生。也即將記錄著我在編程路上的成長，與&lt;a href=&quot;https://www.youtube.com/@jerrypromax&quot;&gt;YouTube&lt;/a&gt;記錄著每一刻值得紀念的瞬間。&lt;/p&gt;
+
+&lt;h4 id=&quot;jerry-blog-1&quot;&gt;JERRY BLog&lt;/h4&gt;
+
+&lt;figure class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-ruby&quot; data-lang=&quot;ruby&quot;&gt;&lt;span class=&quot;n&quot;&gt;https&lt;/span&gt;&lt;span class=&quot;ss&quot;&gt;:/&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;www&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;youtube&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;.&lt;/span&gt;&lt;span class=&quot;nf&quot;&gt;com&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;/&lt;/span&gt;&lt;span class=&quot;n&quot;&gt;results?search_query&lt;/span&gt;&lt;span class=&quot;o&quot;&gt;=&lt;/span&gt;&lt;span class=&quot;err&quot;&gt;架設網站&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/figure&gt;
+
+&lt;p&gt;一次搜索，更是&lt;code class=&quot;language-plaintext highlighter-rouge&quot;&gt;JERRY BLog&lt;/code&gt;誕生的來由。介紹著自己值得驕傲的才能。&lt;/p&gt;
+
+&lt;h4 id=&quot;目標&quot;&gt;目標&lt;/h4&gt;
+&lt;ul class=&quot;task-list&quot;&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; checked=&quot;checked&quot; /&gt;Web-service&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Python&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;C&lt;/li&gt;
+  &lt;li class=&quot;task-list-item&quot;&gt;&lt;input type=&quot;checkbox&quot; class=&quot;task-list-item-checkbox&quot; disabled=&quot;disabled&quot; /&gt;Linux&lt;/li&gt;
+&lt;/ul&gt;
+
+</description>
+        <pubDate>Sun, 12 Mar 2023 12:41:17 +0800</pubDate>
+        <link>http://localhost:4000/2023/03/12/welcome-to-jekyll/</link>
+        <guid isPermaLink="true">http://localhost:4000/2023/03/12/welcome-to-jekyll/</guid>
+        
+        <category>Life</category>
+        
+        <category>Welcome</category>
+        
+        
+      </item>
+    
+  </channel>
+</rss>
